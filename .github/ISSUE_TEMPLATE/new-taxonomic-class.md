@@ -3,7 +3,7 @@ name: New Taxonomic Class
 about: Addition of a new class into the Taxonomy
 title: "[New Taxonomic Class] Enter Name"
 labels: taxonomy class
-assignees: miwalker
+assignees: maxpascher
 
 ---
 

@@ -3,7 +3,7 @@ name: Changes to Classification
 about: Suggest changes to existing classification
 title: Suggested modification to existing classificatio
 labels: bug, taxonomy class
-assignees: miwalker
+assignees: maxpascher
 
 ---
 

@@ -1,0 +1,131 @@
+---
+metadata:
+  acronym: RMI
+  name: Robot Motion Intent Survey
+  title_text: 'How to Communicate Robot Motion Intent: A Scoping Review'
+  citation_text: "@inproceedings{Pascher.2023-RMI, \n title={{How to Communicate Robot\n\t
+    Motion Intent:\n\t
+    A Scoping Review}},
+    \n author={Max Pascher and\n\t
+    Uwe Gruenefeld and\n\t
+    Stefan Schneegass and\n\t
+    Jens Gerken}, \n
+    booktitle={Proceedings of the 2023\n\t
+    CHI Conference on Human Factors\n\t
+    in Computing Systems\n\t
+    (CHI '23)}, \n
+    year={2023}}"
+  link_to_contribute: https://github.com/maxpascher/survey-visualizer/issues/new/choose
+  link_to_code: https://github.com/TathagataChakraborti/survey-visualizer
+  primary_link: https://doi.org/10.1145/3544548.3580857
+  secondary_links: false
+  community_link: false
+  info_tile: false
+  info_text: Learn more about the VAM-HRI Workshop Series
+  info_link:
+  - link: https://ojs.aaai.org//index.php/aimagazine/article/view/2822
+    text: How it started
+  - link: https://vam-hri.github.io/
+    text: How it's going
+link_to_server: path.to.server
+default_view: Taxonomy
+min_year: 1984
+views:
+- name: Taxonomy
+  disabled: false
+  default_tab: Intent Type
+  tabs:
+  - tab_name: Intent Type
+    title_text: Taxonomy View of Intent Type
+    disabled: false
+    fancy_chart: true
+    fancy_chart_default_level: 2
+    input_file:
+      filename: data/slug.xlsx
+      relative: true
+      active_worksheet: Master List
+    papers_list:
+      key_map:
+        slug: 0
+        title: 3
+        abstract: 5
+        authors: 2
+        venue: 4
+        year: 1
+        link: 6
+      rows:
+        start: 5
+        stop: 81
+    taxonomy:
+      rows:
+        start: 2
+        stop: 4
+      columns:
+        start: 9
+        stop: 16
+  - tab_name: Intent Information
+    title_text: Taxonomy View of Intent Information
+    disabled: false
+    fancy_chart: true
+    fancy_chart_default_level: 2
+    input_file:
+      filename: data/slug.xlsx
+      relative: true
+      active_worksheet: Master List
+    papers_list:
+      key_map:
+        slug: 0
+        title: 3
+        abstract: 5
+        authors: 2
+        venue: 4
+        year: 1
+        link: 6
+      rows:
+        start: 5
+        stop: 81
+    taxonomy:
+      rows:
+        start: 1
+        stop: 4
+      columns:
+        start: 17
+        stop: 23
+  - tab_name: Intent Location
+    title_text: Taxonomy View of Intent Location
+    disabled: false
+    fancy_chart: true
+    fancy_chart_default_level: 2
+    input_file:
+      filename: data/slug.xlsx
+      relative: true
+      active_worksheet: Master List
+    papers_list:
+      key_map:
+        slug: 0
+        title: 3
+        abstract: 5
+        authors: 2
+        venue: 4
+        year: 1
+        link: 6
+      rows:
+        start: 5
+        stop: 81
+    taxonomy:
+      rows:
+        start: 2
+        stop: 4
+      columns:
+        start: 24
+        stop: 28
+- name: Affinity
+  disabled: false
+- name: Network
+  files_directory: 
+    location: pdfs
+    relative: true
+  match_threshold: 0.25
+  disabled: false
+- name: Insights
+  disabled: false

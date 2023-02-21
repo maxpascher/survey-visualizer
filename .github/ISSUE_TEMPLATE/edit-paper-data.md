@@ -3,7 +3,7 @@ name: Edit Paper Data
 about: Change metadata of a current paper
 title: "[Edit Paper Data] Paper Title"
 labels: bug, paper
-assignees: miwalker
+assignees: maxpascher
 
 ---
 

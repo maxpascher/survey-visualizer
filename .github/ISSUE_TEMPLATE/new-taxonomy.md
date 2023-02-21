@@ -4,7 +4,7 @@ about: Add a new taxonomyAdd a new taxonomy or classification to go along with t
   current ones.
 title: "[New Taxonomy] Enter Name"
 labels: enhancement, taxonomy class
-assignees: miwalker
+assignees: maxpascher
 
 ---
 

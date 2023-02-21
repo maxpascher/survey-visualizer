@@ -3,7 +3,7 @@ name: Add New Paper
 about: This issue is to be used to add a new paper to the survey.
 title: "[New Paper] Put your paper title here"
 labels: paper
-assignees: miwalker
+assignees: maxpascher
 
 ---
 
