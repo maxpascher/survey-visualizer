@@ -2,11 +2,10 @@
 metadata:
   acronym: RMI
   name: Robot Motion Intent Survey
-  title_text: 'How to Communicate Robot Motion Intent: \n
+  title_text: 'How to Communicate Robot Motion Intent:
   A Scoping Review'
   citation_text: "@inproceedings{Pascher.2023-RMI, \n
-    title={{How to Communicate Robot Motion Intent:\n\t
-    A Scoping Review}},
+    title={{How to Communicate Robot Motion Intent: A Scoping Review}},
     \n author={Max Pascher and Uwe Gruenefeld and\n\t
     Stefan Schneegass and Jens Gerken}, \n
     booktitle={Proceedings of the 2023 CHI Conference\n\t
