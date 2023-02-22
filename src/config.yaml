@@ -2,18 +2,15 @@
 metadata:
   acronym: RMI
   name: Robot Motion Intent Survey
-  title_text: 'How to Communicate Robot Motion Intent: A Scoping Review'
-  citation_text: "@inproceedings{Pascher.2023-RMI, \n title={{How to Communicate Robot\n\t
-    Motion Intent:\n\t
+  title_text: 'How to Communicate Robot Motion Intent: \n
+  A Scoping Review'
+  citation_text: "@inproceedings{Pascher.2023-RMI, \n
+    title={{How to Communicate Robot Motion Intent:\n\t
     A Scoping Review}},
-    \n author={Max Pascher and\n\t
-    Uwe Gruenefeld and\n\t
-    Stefan Schneegass and\n\t
-    Jens Gerken}, \n
-    booktitle={Proceedings of the 2023\n\t
-    CHI Conference on Human Factors\n\t
-    in Computing Systems\n\t
-    (CHI '23)}, \n
+    \n author={Max Pascher and Uwe Gruenefeld and\n\t
+    Stefan Schneegass and Jens Gerken}, \n
+    booktitle={Proceedings of the 2023 CHI Conference\n\t
+    on Human Factors in Computing Systems (CHI '23)}, \n
     year={2023}}"
   link_to_contribute: https://github.com/maxpascher/survey-visualizer/issues/new/choose
   link_to_code: https://github.com/TathagataChakraborti/survey-visualizer
